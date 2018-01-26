@@ -3,7 +3,7 @@ const app = express()
 const port = process.env.PORT || 3000
 
 app.get('/', function (req, res) {
-  if(Math.random() < .05) {
+  if(Math.random() < .2) {
     res.send('Welcome to Unreliable Technology!')
   } else {
     res.status('500').send('Something went wrong!')
