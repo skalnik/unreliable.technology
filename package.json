@@ -1,0 +1,21 @@
+{
+  "description": "An unreliable web service",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skalnik/unreliable.technology.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "name": "unreliable.technology",
+  "bugs": {
+    "url": "https://github.com/skalnik/unreliable.technology/issues"
+  },
+  "homepage": "https://github.com/skalnik/unreliable.technology#readme",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Mike Skalnik"
+}
